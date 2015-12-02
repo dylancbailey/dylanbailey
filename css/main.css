@@ -17,14 +17,14 @@
       height: 30vh;
     }
     .contact-container {
-      padding-top: 80px;
+      padding-top: 5%;
     }
     .contact ul li {
       color: white;
       margin-bottom: 15px;
     }
     .contact ul li:nth-child(1) {
-      padding-top: 15px;
+      padding-top: 2%;
     }
     .contact ul li a,
     .about p a {
