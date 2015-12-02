@@ -14,14 +14,14 @@
     }
     .contact {
       background: #1E1E20;
-      height: 30vh;
+      height: 40%;
     }
     .contact-container {
-      padding-top: 5%;
+      padding-top: 2%;
     }
     .contact ul li {
       color: white;
-      margin-bottom: 15px;
+      margin-bottom: 4%;
     }
     .contact ul li:nth-child(1) {
       padding-top: 2%;
