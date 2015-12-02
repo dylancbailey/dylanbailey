@@ -87,6 +87,15 @@
       color: #337ab7;
     }
 
+
+    /* CONTACT PAGE */
+
+    
+    .about a {
+      text-decoration: none;
+    }
+
+
     @media screen and (max-width: 991px) {
       .classWithPad {
         margin: 50px 0;
