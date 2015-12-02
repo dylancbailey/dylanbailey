@@ -88,8 +88,21 @@
     }
 
 
+    /* PORTFOLIO PAGE */
+
+    .main-port {
+      background: url(../images/computer4.jpg) center no-repeat fixed;
+      background-size: cover;
+      height: 100vh;
+    }
+
     /* CONTACT PAGE */
 
+    .main-contact {
+      background: url(../images/computer3.jpg) center no-repeat fixed;
+      background-size: cover;
+      height: 100vh;
+    }
     
     .about a {
       text-decoration: none;
