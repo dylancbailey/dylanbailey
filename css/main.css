@@ -67,6 +67,7 @@
     }
     .navbar li a {
       color: white;
+      transition: all 0.3s ease;
     }
     .navbar li a:hover {
       background: rgba(192,192,192,.4);
@@ -81,6 +82,7 @@
       background: #1E1E20;
       padding: 30px 50px;  
       border-radius: 5%;
+      transition: all 0.3s ease;
     }
     .classWithPad {
       margin: 10px;
@@ -92,7 +94,6 @@
     #portfolio a:hover {
       color: #337ab7;
     }
-
 
     /* PORTFOLIO PAGE */
 
